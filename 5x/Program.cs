@@ -107,5 +107,9 @@ namespace _5x
             return User;
 
         }
+        static void Main(string[] args)
+        {
+            Console.WriteLine(EnterByUser());
+        }
     }
 }
