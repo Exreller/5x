@@ -114,7 +114,7 @@ namespace _5x
             Console.WriteLine(" ");
             if (temp.IfPet.Length != 0)
             {
-                Console.WriteLine("Ваш(и) питомец(и): ");
+                Console.WriteLine("Ваш(и) питомец(ы): ");
             }
             foreach (string pet in temp.IfPet)
             {
